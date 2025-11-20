@@ -1,6 +1,8 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://i.imgur.com/2y5oQpT.gif" width="100%" />
+  <img src="
+
+" width="100%" />
 </p>
 
 <h1 align="center">
