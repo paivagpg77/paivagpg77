@@ -4,7 +4,7 @@
 
 --
 <p>
-    Me chamo Gabriel Paiva, tenho 15 anos, sou estudante do curso técnico <strong>Desenvolvimento de Sistemas</strong>, iniciei na área durante esse ano e desde então venho buscado crescimento, com estudos dentro da área de back-end.
+    Me chamo Gabriel Paiva, tenho 15 anos, sou estudante do curso técnico <strong>Desenvolvimento de Sistemas</strong>, iniciei na área durante esse ano e desde então venho buscado crescimento, com estudos dentro da área de back-end, nesse ano eu criei alguns projetos interessantes, basta dar uma olhada nos meus repositórios.
 </p>
 --
 
@@ -26,22 +26,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="React"
