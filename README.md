@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/4M7DGJ8.gif" width="300px" />
+  <img src="https://pin.it/4dtX20kbv" width="300px" />
 </p>
 
 <h3 align="center">🎮 Obrigado por passar no meu perfil. Let's keep leveling up! 🚀</h3>
