@@ -55,17 +55,16 @@
 🟣 Sistema Bancário (Python)  
 🟣 Sistema de Logística Interna  
 🟣 Automação com PyAutoGUI  
-🟣 Interfaces Gamer com Tkinter / CustomTkinter  
-🟣 Front-Ends Modernos Estilo Dashboard Dark  
+🟣 Interfaces com Tkinter / CustomTkinter  
 
 ---
 
-## 🧱 Objetivos do Jogo
+## 🧱 Objetivos Meus 
 
 - Subir de nível no Back-End  
 - Criar APIs seguras e escaláveis  
 - Dominar Python e Node.js  
-- Construir sistemas completos com banco de dados  
+- Ser profissional na área de Banco De Dados
 - Ter um portfólio sólido e profissional  
 
 ---
