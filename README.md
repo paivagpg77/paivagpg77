@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Pedro
+# 👩🏻‍💻 Gabriel Paiva
 
 **`Desenvolvedor Back-End`**
 
