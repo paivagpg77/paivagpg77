@@ -66,7 +66,7 @@
 ## 🧩 Projetos em Destaque
 
 🔹 **Sistema Bancário Completo**  
-🔹 **Login com JSON + Interface**  
+🔹 **Sistema de Gestão de Locação / Controle de Funcionários e Itens (Logística Interna)**  
 🔹 **Automação com PyAutoGUI**  
 🔹 **Interfaces Modernas com Tkinter/CustomTkinter**
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 💬 Contato
+## 💬 Entre em Contato Comigo Através Das Redes Abaixo
 
 📧 **Email:** paiva.info10@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gabrielpaivaale/
