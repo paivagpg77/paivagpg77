@@ -10,11 +10,11 @@
 
 ## 🌌 Sobre mim
 
-✨ Tenho **15 anos**, estudo **Desenvolvimento de Sistemas** e atualmente foco no universo do **Back-End**.  
+✨ Tenho **15 anos**, faço curso **Técnico de Desenvolvimento de Sistemas** e atualmente foco no universo do **Back-End**.  
 🚀 Crio projetos, APIs, automações e sistemas completos — sempre buscando evoluir.
 
 💡 *Meu lema:*  
-**"Todo dia um novo código, todo dia um novo nível."**
+**"Apenas faça!"**
 
 ---
 
