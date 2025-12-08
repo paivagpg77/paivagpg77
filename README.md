@@ -1,8 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="
-
-" width="100%" />
+  <img src="" width="100%" />
 </p>
 
 <h1 align="center">
@@ -13,12 +11,12 @@
 
 ## 🎮 Sobre mim
 
-🔥 Desenvolvedor **Back-End**.  
+🔥 Desenvolvedor **Back-End** focado em criação de soluções reais.  
 🎓 Estudante de **Técnico de Desenvolvimento de Sistemas**.  
-🧠 Sempre buscando evoluir, testar limites e criar projetos de verdade.
+🧠 Apaixonado por lógica, automação e construção de sistemas escaláveis.
 
-💀 **Estilo de código:** limpo, direto, funcional.  
-⚡ **Missão:** dominar Back-End e construir sistemas profissionais.
+💀 **Estilo de código:** limpo • direto • funcional  
+⚡ **Missão:** evoluir constantemente e dominar o ecossistema Back-End.
 
 ---
 
@@ -50,9 +48,7 @@
 
 ---
 
-
-
-###
+## 🟡 Mapa de Contribuições (Modo Arcade – PAC-MAN)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph-dark.svg">
@@ -60,33 +56,32 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-## 🔥 Projetos Destaque (XP)
+## 🔥 Projetos Destaque (XP Ganho)
 
-🟣 Sistema Bancário (Python)  
-🟣 Sistema de Logística Interna  
-🟣 Automação com PyAutoGUI  
-🟣 Interfaces com Tkinter / CustomTkinter  
+🟣 **Sistema Bancário** – Python  
+🟣 **Sistema de Logística Interna**  
+🟣 **Automação com PyAutoGUI**  
+🟣 **Interfaces com Tkinter / CustomTkinter**
 
 ---
 
-## 🧱 Objetivos Meus 
+## 🧱 Objetivos
 
 - Subir de nível no Back-End  
-- Criar APIs seguras e escaláveis  
+- Criar APIs seguras, rápidas e escaláveis  
 - Dominar Python e Node.js  
-- Ser profissional na área de Banco De Dados
-- Ter um portfólio sólido e profissional  
+- Aprofundar em Banco de Dados  
+- Construir um portfólio sólido e profissional  
 
 ---
 
 ## 🎧 Contato
 
 📨 **Email:** paiva.info10@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/gabrielpaivaale/
+🔗 **LinkedIn:** https://www.linkedin.com/in/gabrielpaivaale  
 
 ---
-
 
 <h3 align="center">🎮 Obrigado por passar no meu perfil. Let's keep leveling up! 🚀</h3>
