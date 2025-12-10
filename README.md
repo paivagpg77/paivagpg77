@@ -4,43 +4,45 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=👾+GABRIEL+PAIVA;BACK-END+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;NEVER+STOP+LEVELING+UP+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=32&color=00BFFF&center=true&vCenter=true&width=1000&lines=GABRIEL+PAIVA;DESENVOLVEDOR+BACK-END;FOCADO+EM+RESULTADOS+E+QUALIDADE" />
 </h1>
 
 ---
 
-## 🎮 Sobre mim
+## 📌 Sobre mim
 
-🔥 Desenvolvedor **Back-End** focado em criação de soluções reais.  
-🎓 Estudante de **Técnico de Desenvolvimento de Sistemas**.  
-🧠 Apaixonado por lógica, automação e construção de sistemas escaláveis.
+Desenvolvedor **Back-End**, com foco em criação de soluções eficientes e escaláveis.  
+Atualmente estudando **Técnico de Desenvolvimento de Sistemas**, buscando aprimorar lógica, arquitetura e boas práticas de programação.
 
-💀 **Estilo de código:** limpo • direto • funcional  
-⚡ **Missão:** evoluir constantemente e dominar o ecossistema Back-End.
+💼 **Pilares profissionais:**  
+- Código limpo e objetivo  
+- Estruturas bem definidas  
+- Automação e eficiência  
+- Evolução contínua
 
 ---
 
-## 🕹️ Stack Gamer / Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
 
-### ⚔️ Linguagens & Ferramentas
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,react,tailwind&theme=dark" />
+### ⭐ Principais
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" />
 
-### 🧩 Em evolução
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,firebase&theme=dark" />
+### 📘 Em aprimoramento
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,firebase,react,tailwind&theme=dark" />
 
 </div>
 
 ---
 
-## 💾 Status do Sistema (GitHub Stats)
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=paivagpg77&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00FFFF&title_color=00FFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=paivagpg77&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=paivagpg77&theme=tokyonight&hide_border=true" />
 
@@ -48,40 +50,30 @@
 
 ---
 
-## 🟡 Mapa de Contribuições (Modo Arcade – PAC-MAN)
+## 📂 Projetos em Destaque
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 🔥 Projetos Destaque (XP Ganho)
-
-🟣 **Sistema Bancário** – Python  
-🟣 **Sistema de Logística Interna**  
-🟣 **Automação com PyAutoGUI**  
-🟣 **Interfaces com Tkinter / CustomTkinter**
+- **Sistema Bancário – Python**  
+- **Sistema de Logística Interna**  
+- **Automação com PyAutoGUI**  
+- **Interfaces com Tkinter / CustomTkinter**
 
 ---
 
-## 🧱 Objetivos
+## 🎯 Objetivos Profissionais
 
-- Subir de nível no Back-End  
-- Criar APIs seguras, rápidas e escaláveis  
-- Dominar Python e Node.js  
-- Aprofundar em Banco de Dados  
-- Construir um portfólio sólido e profissional  
+- Fortalecer conhecimentos em Back-End  
+- Criar APIs seguras e escaláveis  
+- Evoluir em Python e Node.js  
+- Aprofundar gestão e modelagem de Bancos de Dados  
+- Construir um portfólio sólido e prático  
 
 ---
 
-## 🎧 Contato
+## 📩 Contato
 
-📨 **Email:** paiva.info10@gmail.com  
+📧 **Email:** paiva.info10@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gabrielpaivaale  
 
 ---
 
-<h3 align="center">🎮 Obrigado por passar no meu perfil. Let's keep leveling up! 🚀</h3>
+<h3 align="center">Obrigado por visitar meu perfil.</h3>
