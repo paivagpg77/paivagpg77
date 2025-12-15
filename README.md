@@ -7,8 +7,8 @@ Desenvolvedor em formação, com foco em **back-end** e construção de projetos
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paivagpg77&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77&layout=compact&theme=graywhite&hide_border=true" width="48%" />
 </p>
 
 ---
