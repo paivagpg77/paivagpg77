@@ -23,6 +23,14 @@ Tenho interesse em boas práticas de código, organização de projetos e constr
       title="Me siga no GitHub"
     />
   </a>
+
+  <a href="https://www.linkedin.com/in/gabrielpaivaale/" target="_blank">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      title="Conecte-se comigo no LinkedIn"
+    />
+  </a>
 </p>
 
 ---
