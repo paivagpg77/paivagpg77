@@ -1,87 +1,75 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="
+# 👨‍💻 Gabriel Paiva
 
-" width="100%" />
+**`Desenvolvedor Backend`**
+
+Olá! Me chamo Gabriel Paiva e sou desenvolvedor com foco em **Backend**, utilizando principalmente **Python** e **bancos de dados relacionais**.  
+Estou em constante aprendizado, buscando evoluir minhas habilidades em desenvolvimento de sistemas, APIs e aplicações web.
+
+Tenho interesse em boas práticas de código, organização de projetos e construção de soluções eficientes, sempre explorando novas tecnologias e ferramentas do ecossistema de software.
+
+<p align="left">
+  <a href="https://github.com/paivagpg77?tab=repositories&sort=stargazers">
+    <img
+      src="https://custom-icon-badges.demolab.com/github/stars/paivagpg77?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+      alt="Total de estrelas"
+      title="Total de estrelas no GitHub"
+    />
+  </a>
+
+  <a href="https://github.com/paivagpg77?tab=followers">
+    <img
+      src="https://custom-icon-badges.demolab.com/github/followers/paivagpg77?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      alt="Seguidores"
+      title="Me siga no GitHub"
+    />
+  </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=👾+GABRIEL+PAIVA;BACK-END+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;NEVER+STOP+LEVELING+UP+🚀" />
-</h1>
+---
+
+### 🧠 Linguagens e Tecnologias
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+<img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+
+<img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+<br/>
+<br/>
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+### 📊 Estatísticas do GitHub
 
-<div align="center">
+<p>
+  <img
+    align="left"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=paivagpg77&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
 
-### 🛠️ **Stack Principal**
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,tailwind,git,github,vscode&theme=dark" />
-
----
-
-### 🧪 **Explorando**
-<img src="https://skillicons.dev/icons?i=nodejs,sqlite,mysql,firebase&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png"/>  
-</div>
-
----
-
-## 🚀 Estatísticas do GitHub
-
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77&layout=compact&theme=tokyonight&hide_border=true"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paivagpg77&theme=tokyonight&hide_border=true" /> 
-</div>
-
----
-
-## 🎯 Minhas metas
-
-- 📌 Aprofundar mais no Back-End  
-- 🧱 Criar sistemas completos com banco de dados  
-- 🐍 Desenvolver interfaces bonitas e atraentes
-- 💼 Construir meu portfólio profissional  
-
----
-
-## 🧩 Projetos em Destaque
-
-🔹 **Sistema Bancário Completo**  
-🔹 **Sistema Administração De Empresa de Logística**  
-🔹 **API com Flask**  
-
----
-
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png"/>  
-</div>
-
----
-
-## 💬 Contato
-
-📧 **Email:** paiva.info10@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/gabrielpaivaale/
-
-
----
-
-## 🎉 Finalizando…
-
-<div align="center">
-  
-**Obrigado por visitar meu perfil!**  
-⭐ *Considere deixar uma estrela em algum repositório!*  
-
-<img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGnn/giphy.gif" width="200"/>
-
-</div>
-
-
+  <img
+    align="left"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+  />
+</p>
