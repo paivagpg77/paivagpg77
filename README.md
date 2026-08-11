@@ -2,7 +2,7 @@
 
 ### `Backend Developer | Python | Java | SQL | APIs REST`
 
-Olá! Eu sou **Gabriel Paiva**, estudante de **Desenvolvimento de Sistemas** e desenvolvedor com foco em **Backend**.
+Olá! Eu sou **Gabriel Paiva**, estudante do **Curso Técnico em Desenvolvimento de Sistemas** e desenvolvedor com foco em **Backend**.
 
 Tenho interesse em construir aplicações, APIs e sistemas utilizando principalmente **Python, Java e bancos de dados relacionais**. Atualmente venho desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em programação, desenvolvimento web, bancos de dados e arquitetura de sistemas.
 
