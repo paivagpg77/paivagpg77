@@ -1,162 +1,154 @@
 # 👨‍💻 Gabriel Paiva
-**`Desenvolvedor Backend | Python | Sistemas IoT`**
 
-Olá! Me chamo Gabriel Paiva e sou desenvolvedor com foco em **Backend**, utilizando principalmente **Python**, **bancos de dados relacionais** e **sistemas embarcados (IoT)**. Atualmente sou desenvolvedor e co-fundador da **EcoTech Solutions**, uma startup de monitoramento inteligente de solo baseada em IoT.
+### `Backend Developer | Python | Java | SQL | APIs REST`
 
-Estou em constante aprendizado, buscando evoluir minhas habilidades em desenvolvimento de sistemas, APIs REST, aplicações web e soluções de IoT. Tenho interesse em boas práticas de código, organização de projetos, arquitetura de software e construção de soluções eficientes e escaláveis.
+Olá! Eu sou **Gabriel Paiva**, estudante de **Desenvolvimento de Sistemas** e desenvolvedor com foco em **Backend**.
 
-<p align="left">
-  <a href="https://github.com/paivagpg77?tab=repositories&sort=stargazers">
-    <img
-      src="https://custom-icon-badges.demolab.com/github/stars/paivagpg77?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-      alt="Total de estrelas"
-      title="Total de estrelas no GitHub"
-    />
-  </a>
-  <a href="https://github.com/paivagpg77?tab=followers">
-    <img
-      src="https://custom-icon-badges.demolab.com/github/followers/paivagpg77?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-      alt="Seguidores"
-      title="Me siga no GitHub"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielpaivaale/" target="_blank">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      title="Conecte-se comigo no LinkedIn"
-    />
-  </a>
-</p>
+Tenho interesse em construir aplicações, APIs e sistemas utilizando principalmente **Python, Java e bancos de dados relacionais**. Atualmente venho desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em programação, desenvolvimento web, bancos de dados e arquitetura de sistemas.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Sobre mim
 
-### **EcoTech Solutions** — Plataforma IoT de Monitoramento de Solo
-Startup focada em soluções inteligentes de agricultura sustentável.
-
-- **Backend:** Flask + PostgreSQL com arquitetura RESTful
-- **Frontend:** Dashboard web responsivo com Chart.js
-- **Hardware:** Sensores ESP32 para coleta de dados de umidade
-- **Funcionalidades:** Autenticação de usuários, catalogação de plantas (300+ espécies do Nordeste), exportação de dados (PDF/CSV), análise em tempo real
-- **Deploy:** Render (Web Service + PostgreSQL)
-- **GitHub:** [ecotech-projeto](https://github.com/paivagpg77/ecotech-projeto)
-- **Site:** [ecotech-projeto.onrender.com](https://ecotech-projeto.onrender.com)
-
-### **Banco de Questões** — Ferramenta de Estudo e Revisão
-Plataforma para extração, organização e prática de questões de vestibular.
-
-- **Stack:** Flask backend + PostgreSQL + pdfplumber (extração de PDFs)
-- **Funcionalidades:** Upload de PDFs, extração automática de questões, catalogação por disciplina, filtros avançados
-- **Propósito:** Facilitar preparação para ENEM e vestibulares
-- **GitHub:** [banco-de-questoes](https://github.com/paivagpg77/banco-de-questoes)
-
-### **LUMINA** — Projeto de Desenvolvimento Avançado
-Aplicação full-stack explorando arquiteturas modernas e boas práticas.
-
-- **Tecnologias:** Python + Frontend responsivo
-- **Foco:** Clean Code, design patterns, organização de projeto
+* 🎓 Estudante de **Desenvolvimento de Sistemas**
+* 💻 Foco em **Desenvolvimento Backend**
+* 🐍 Experiência com **Python**
+* ☕ Desenvolvendo conhecimentos em **Java e POO**
+* 🗄️ Experiência com **PostgreSQL e SQLite**
+* 🌐 Desenvolvimento de **APIs REST**
+* 🔧 Utilização de **Flask, Django e Node.js**
+* 📊 Interesse em análise e processamento de dados
+* 🌱 Experiência com projetos envolvendo **IoT e sistemas de monitoramento**
+* 🔥 Sempre buscando aprender novas tecnologias e melhorar meus projetos
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## 🛠️ Tecnologias
 
-### **Backend & Databases**
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-<img align="left" alt="Django" title="Django" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-<br/>
-<br/>
+### Backend
 
-### **Frontend & Web**
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Chart.js" title="Chart.js" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg"/>
-<br/>
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-### **Hardware & IoT**
-<img align="left" alt="ESP32" title="ESP32" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg"/>
-<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
-<br/>
-<br/>
+### Banco de Dados
 
-### **DevOps & Ferramentas**
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<br/>
-<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
 
 ---
 
-## 💡 Competências Principais
+## ⭐ Projetos em destaque
 
-- **Desenvolvimento Backend:** APIs RESTful, estrutura de projetos, segurança
-- **Bancos de Dados:** Design de schemas, otimização de queries, migração de dados
-- **Sistemas IoT:** Integração de sensores, processamento de dados em tempo real
-- **Frontend Web:** Dashboards responsivos, experiência do usuário, visualização de dados
-- **Boas Práticas:** Clean Code, versionamento Git, documentação, CI/CD
-- **Metodologias:** Desenvolvimento ágil, prototipagem, iteração rápida
+### 🌱 EcoTech
 
----
+Sistema de monitoramento inteligente de solo desenvolvido com foco em **IoT e agricultura sustentável**.
 
-## 📊 Estatísticas do GitHub
+**Tecnologias:**
 
-<p>
-  <img
-    align="left"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=paivagpg77&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    align="left"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8"
-  />
-</p>
+* Python / Flask
+* PostgreSQL
+* APIs REST
+* ESP32 e sensores
+* HTML, CSS e JavaScript
+* Dashboard para visualização de dados
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paivagpg77/paivagpg77/output/pacman-contribution-graph.svg">
-</picture>
+🔗 [Repositório](https://github.com/paivagpg77/ecotech-projeto)
 
 ---
 
-## 🎯 Objetivos Atuais
+### 🏦 PPBank
 
-- 🚀 Expandir EcoTech Solutions e aumentar adoção no mercado de agricultura inteligente
-- 📚 Aprofundar conhecimentos em arquitetura de microserviços e cloud-native applications
-- 🔐 Especializar-se em segurança de APIs e proteção de dados sensíveis
-- 🌱 Contribuir mais com open-source e comunidades de desenvolvimento
+Projeto de banco fictício desenvolvido para praticar conceitos de **Backend, lógica de programação e persistência de dados**.
+
+**Funcionalidades:**
+
+* Cadastro de usuários
+* Sistema de login
+* Depósitos
+* Saques
+* Transferências
+* Histórico de operações
+
+**Tecnologia principal:** Python
 
 ---
 
-## 📫 Como Me Encontrar
+### 🚚 PP Logística
 
-- **GitHub:** [@paivagpg77](https://github.com/paivagpg77)
-- **LinkedIn:** [Gabriel Paiva](https://www.linkedin.com/in/gabrielpaivaale/)
-- **Email:** Disponível via LinkedIn
+Sistema desenvolvido para gerenciamento de funcionários de uma transportadora.
+
+**Funcionalidades:**
+
+* Cadastro de funcionários
+* Busca por funcionários
+* Cálculo de idade
+* Cálculo de salário
+* Listagem de funcionários
+* Interface gráfica
+
+**Tecnologias:** Python, CustomTkinter e SQLite.
 
 ---
 
-**"Código limpo hoje, problemas evitados amanhã."**
+## 📚 Atualmente estudando
+
+```text
+Backend Development
+├── Python
+├── Java
+├── Programação Orientada a Objetos
+├── APIs REST
+├── PostgreSQL
+├── Arquitetura de Software
+└── Desenvolvimento Web
+```
+
+---
+
+## 🎯 Objetivos
+
+* 🚀 Evoluir como desenvolvedor Backend
+* 🐍 Aprofundar meus conhecimentos em Python
+* ☕ Evoluir em Java e Programação Orientada a Objetos
+* 🗄️ Aprimorar conhecimentos em bancos de dados
+* 🌐 Desenvolver APIs cada vez mais completas
+* 💼 Construir um portfólio profissional
+* 📚 Continuar aprendendo novas tecnologias
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paivagpg77\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📫 Contato
+
+**GitHub:** [@paivagpg77](https://github.com/paivagpg77)
+
+**LinkedIn:** [Gabriel Paiva](https://www.linkedin.com/in/gabrielpaivaale/)
+
+---
+
+### 💡 "Código limpo hoje, problemas evitados amanhã."
+
