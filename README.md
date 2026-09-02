@@ -32,6 +32,7 @@ Tenho interesse em construir aplicações, APIs e sistemas utilizando principalm
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Banco de Dados
 
@@ -61,7 +62,6 @@ Tenho interesse em construir aplicações, APIs e sistemas utilizando principalm
 Sistema de monitoramento inteligente de solo desenvolvido com foco em **IoT e agricultura sustentável**.
 
 **Tecnologias:**
-
 * Python / Flask
 * PostgreSQL
 * APIs REST
@@ -73,12 +73,25 @@ Sistema de monitoramento inteligente de solo desenvolvido com foco em **IoT e ag
 
 ---
 
+### 💰 EconoFinance
+
+Aplicação fintech moderna desenvolvida com foco em **gestão financeira pessoal**.
+
+**Tecnologias:**
+* NestJS + TypeORM
+* PostgreSQL
+* Vanilla JavaScript
+* Arquitetura multi-página
+
+🔗 [Repositório](https://github.com/paivagpg77/econofinance)
+
+---
+
 ### 🏦 PPBank
 
 Projeto de banco fictício desenvolvido para praticar conceitos de **Backend, lógica de programação e persistência de dados**.
 
 **Funcionalidades:**
-
 * Cadastro de usuários
 * Sistema de login
 * Depósitos
@@ -95,7 +108,6 @@ Projeto de banco fictício desenvolvido para praticar conceitos de **Backend, l�
 Sistema desenvolvido para gerenciamento de funcionários de uma transportadora.
 
 **Funcionalidades:**
-
 * Cadastro de funcionários
 * Busca por funcionários
 * Cálculo de idade
@@ -104,6 +116,18 @@ Sistema desenvolvido para gerenciamento de funcionários de uma transportadora.
 * Interface gráfica
 
 **Tecnologias:** Python, CustomTkinter e SQLite.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paivagpg77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&hide=contribs)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paivagpg77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
@@ -134,20 +158,20 @@ Backend Development
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paivagpg77&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paivagpg77&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contato
 
 **GitHub:** [@paivagpg77](https://github.com/paivagpg77)
 
 **LinkedIn:** [Gabriel Paiva](https://www.linkedin.com/in/gabrielpaivaale/)
 
+**Email:** Disponível em meu perfil do GitHub
+
 ---
 
 ### 💡 "Código limpo hoje, problemas evitados amanhã."
+
+<div align="center">
+
+**⭐ Se você achou útil, considere dar uma estrela nos meus repositórios!**
+
+</div>
