@@ -1,10 +1,17 @@
-## Vitor Souza
+## Gabriel Paiva
 
-Hello, my name is Vitor Souza, I'm a brazilian software engineer at [Itaú Unibanco](https://www.itau.com.br) working with backend and distributed systems, and a content creator. I'm not interested in perfect systems. I'm interested in systems that survive reality.
+Olá! Meu nome é **Gabriel Paiva**, sou estudante do **Curso Técnico de Desenvolvimento de Sistemas** e estou iniciando minha trajetória profissional na área de tecnologia, com foco principalmente em **desenvolvimento Back-End**.
 
-[1x AWS Certified](https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile) and [C1 Advanced English](https://www.efset.org/cert/KjKPY3). I studied Systems Analysis and Development at Anhembi Morumbi and lived in Toronto, Canada for 3 months on an exchange program.
+Ainda sou iniciante profissionalmente, mas venho construindo minha experiência na prática através de diversos projetos pessoais e acadêmicos, buscando sempre aprender novas tecnologias e entender como transformar ideias em aplicações funcionais.
 
-I publish my content on my YouTube channel [Souza DEV](https://www.youtube.com/@souzaadev), and share tech with 340k+ people across TikTok, Instagram and LinkedIn.
+Tenho experiência e interesse em tecnologias como **Python, Java, JavaScript, TypeScript, Flask, Django, Node.js, React, NestJS, PostgreSQL e SQLite**, além de ferramentas como **Git, GitHub, Docker e VS Code**.
+
+Entre meus projetos estão aplicações para **gestão financeira, logística, captura de dados, monitoramento de preços, sistemas de cadastro e APIs**, onde venho trabalhando com desenvolvimento de sistemas, bancos de dados, APIs REST e integração entre diferentes tecnologias.
+
+Meu principal objetivo é **evoluir como desenvolvedor, adquirir experiência profissional e construir projetos cada vez mais completos**, sempre buscando aprender com os desafios encontrados durante o desenvolvimento.
+
+Não estou em busca de parecer um desenvolvedor experiente. Estou construindo minha experiência **projeto por projeto, aprendendo, errando e evoluindo**.
+
 
 #### Technologies and tools
 
