@@ -1,177 +1,23 @@
-# 👨‍💻 Gabriel Paiva
+## Vitor Souza
 
-### `Backend Developer | Python | Java | SQL | APIs REST`
+Hello, my name is Vitor Souza, I'm a brazilian software engineer at [Itaú Unibanco](https://www.itau.com.br) working with backend and distributed systems, and a content creator. I'm not interested in perfect systems. I'm interested in systems that survive reality.
 
-Olá! Eu sou **Gabriel Paiva**, estudante do **Curso Técnico em Desenvolvimento de Sistemas** e desenvolvedor com foco em **Backend**.
+[1x AWS Certified](https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile) and [C1 Advanced English](https://www.efset.org/cert/KjKPY3). I studied Systems Analysis and Development at Anhembi Morumbi and lived in Toronto, Canada for 3 months on an exchange program.
 
-Tenho interesse em construir aplicações, APIs e sistemas utilizando principalmente **Python, Java e bancos de dados relacionais**. Atualmente venho desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em programação, desenvolvimento web, bancos de dados e arquitetura de sistemas.
+I publish my content on my YouTube channel [Souza DEV](https://www.youtube.com/@souzaadev), and share tech with 340k+ people across TikTok, Instagram and LinkedIn.
 
----
+#### Technologies and tools
 
-## 🚀 Sobre mim
+[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![SPRING](https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white)]()
+[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MONGODB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
+[![TERRAFORM](https://img.shields.io/badge/terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)]()
 
-* 🎓 Estudante de **Desenvolvimento de Sistemas**
-* 💻 Foco em **Desenvolvimento Backend**
-* 🐍 Experiência com **Python**
-* ☕ Desenvolvendo conhecimentos em **Java e POO**
-* 🗄️ Experiência com **PostgreSQL e SQLite**
-* 🌐 Desenvolvimento de **APIs REST**
-* 🔧 Utilização de **Flask, Django e Node.js**
-* 📊 Interesse em análise e processamento de dados
-* 🌱 Experiência com projetos envolvendo **IoT e sistemas de monitoramento**
-* 🔥 Sempre buscando aprender novas tecnologias e melhorar meus projetos
+#### Socials
 
----
-
-## 🛠️ Tecnologias
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-## ⭐ Projetos em destaque
-
-### 🌱 EcoTech
-
-Sistema de monitoramento inteligente de solo desenvolvido com foco em **IoT e agricultura sustentável**.
-
-**Tecnologias:**
-* Python / Flask
-* PostgreSQL
-* APIs REST
-* ESP32 e sensores
-* HTML, CSS e JavaScript
-* Dashboard para visualização de dados
-
-🔗 [Repositório](https://github.com/paivagpg77/ecotech-projeto)
-
----
-
-### 💰 EconoFinance
-
-Aplicação fintech moderna desenvolvida com foco em **gestão financeira pessoal**.
-
-**Tecnologias:**
-* NestJS + TypeORM
-* PostgreSQL
-* Vanilla JavaScript
-* Arquitetura multi-página
-
-🔗 [Repositório](https://github.com/paivagpg77/econofinance)
-
----
-
-### 🏦 PPBank
-
-Projeto de banco fictício desenvolvido para praticar conceitos de **Backend, lógica de programação e persistência de dados**.
-
-**Funcionalidades:**
-* Cadastro de usuários
-* Sistema de login
-* Depósitos
-* Saques
-* Transferências
-* Histórico de operações
-
-**Tecnologia principal:** Python
-
----
-
-### 🚚 PP Logística
-
-Sistema desenvolvido para gerenciamento de funcionários de uma transportadora.
-
-**Funcionalidades:**
-* Cadastro de funcionários
-* Busca por funcionários
-* Cálculo de idade
-* Cálculo de salário
-* Listagem de funcionários
-* Interface gráfica
-
-**Tecnologias:** Python, CustomTkinter e SQLite.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paivagpg77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&hide=contribs)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paivagpg77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-```text
-Backend Development
-├── Python
-├── Java
-├── Programação Orientada a Objetos
-├── APIs REST
-├── PostgreSQL
-├── Arquitetura de Software
-└── Desenvolvimento Web
-```
-
----
-
-## 🎯 Objetivos
-
-* 🚀 Evoluir como desenvolvedor Backend
-* 🐍 Aprofundar meus conhecimentos em Python
-* ☕ Evoluir em Java e Programação Orientada a Objetos
-* 🗄️ Aprimorar conhecimentos em bancos de dados
-* 🌐 Desenvolver APIs cada vez mais completas
-* 💼 Construir um portfólio profissional
-* 📚 Continuar aprendendo novas tecnologias
-
----
-
-## 📫 Contato
-
-**GitHub:** [@paivagpg77](https://github.com/paivagpg77)
-
-**LinkedIn:** [Gabriel Paiva](https://www.linkedin.com/in/gabrielpaivaale/)
-
-**Email:** Disponível em meu perfil do GitHub
-
----
-
-### 💡 "Código limpo hoje, problemas evitados amanhã."
-
-<div align="center">
-
-**⭐ Se você achou útil, considere dar uma estrela nos meus repositórios!**
-
-</div>
+[![LINKEDIN](https://www.linkedin.com/in/gabrielpaivaale/)
+[![INSTAGRAM](https://www.instagram.com/gabriel.ale07/)
